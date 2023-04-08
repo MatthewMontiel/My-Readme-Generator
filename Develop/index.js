@@ -44,7 +44,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributers",
+        name: "contributors",
         prompt: "Please enter the GitHub user name of any contributers.",
     },
     {
